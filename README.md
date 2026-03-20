@@ -66,20 +66,6 @@ README.md
 * GitHub: https://github.com/keerthi-12334
 * LinkedIn: https://www.linkedin.com/in/keerthi-nakka
 
----
 
-## Future Improvements
 
-* Add more advanced Python topics
-* Include data analysis projects
-* Add real-world problem-solving examples
 
----
-
-##  Acknowledgement
-
-This notebook is created as part of my self-learning and practice.
-
----
-
-⭐ If you like this repository, feel free to star it!
